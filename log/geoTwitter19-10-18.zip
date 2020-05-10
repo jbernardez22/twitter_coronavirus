@@ -1,0 +1,27 @@
+counter_country= defaultdict(<function <lambda> at 0x7f73be241378>, {'#coronavirus': Counter({'und': 1})})
+2020-05-08 00:16:57.604112 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_00:00
+2020-05-08 00:17:30.946052 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_01:00
+2020-05-08 00:17:58.600655 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_02:00
+2020-05-08 00:18:20.991160 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_03:00
+2020-05-08 00:20:48.745042 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_04:00
+2020-05-08 00:21:08.324440 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_05:00
+2020-05-08 00:21:23.631971 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_06:00
+2020-05-08 00:23:03.925633 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_07:00
+2020-05-08 00:23:18.949690 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_08:00
+2020-05-08 00:23:33.112443 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_09:00
+2020-05-08 00:23:49.844467 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_10:00
+2020-05-08 00:24:08.159532 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_11:00
+2020-05-08 00:24:31.889474 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_12:00
+2020-05-08 00:25:56.597266 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_13:00
+2020-05-08 00:27:39.099931 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_14:00
+2020-05-08 00:28:13.924087 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_15:00
+2020-05-08 00:28:40.365735 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_16:00
+2020-05-08 00:29:05.282479 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_17:00
+2020-05-08 00:29:50.272524 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_18:00
+2020-05-08 00:30:23.182722 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_19:00
+2020-05-08 00:30:58.800313 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_20:00
+2020-05-08 00:31:22.586283 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_21:00
+2020-05-08 00:32:59.106716 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_22:00
+2020-05-08 00:33:22.125484 /data/tweets_corona/geoTwitter19-10-18.zip geoTwitter19-10-18/geoTwitter19-10-18_23:00
+saving outputs/geoTwitter19-10-18.zip.lang
+saving outputs/geoTwitter19-10-18.zip.country
